@@ -8,11 +8,11 @@
     },
     "hazards": {
       "jumppad": 0.0,
-      "speedBooster": 5,
-      "banana": 1,
+      "speedBooster": 4,
+      "banana": 2,
       "bubblegum": 0.0,
       "lava": 0.0,
-      "bonuses": 1.0
+      "bonuses": 0.3
     },
     "items": {
       "hearts": 0,
@@ -28,11 +28,11 @@
     },
     "hazards": {
       "jumppad": 0.0,
-      "speedBooster": 5,
-      "banana": 1,
+      "speedBooster": 4,
+      "banana": 2,
       "bubblegum": 0.0,
       "lava": 0.0,
-      "bonuses": 1.0
+      "bonuses": 0.3
     },
     "items": {
       "hearts": 0,
@@ -46,13 +46,13 @@
       "highWall": 0.5,
       "coins": 50
     },
-    "hazards": {
+   "hazards": {
       "jumppad": 0.0,
-      "speedBooster": 5,
-      "banana": 1,
+      "speedBooster": 4,
+      "banana": 2,
       "bubblegum": 0.0,
       "lava": 0.0,
-      "bonuses": 1.0
+      "bonuses": 0.3
     },
     "items": {
       "hearts": 0,
@@ -66,13 +66,13 @@
       "highWall": 0.5,
       "coins": 50
     },
-    "hazards": {
-      "jumppad": 0.5,
-      "speedBooster": 5,
+   "hazards": {
+      "jumppad": 0.2,
+      "speedBooster": 4,
       "banana": 2,
       "bubblegum": 0.0,
       "lava": 0.0,
-      "bonuses": 1.0
+      "bonuses": 0.3
     },
     "items": {
       "hearts": 0,
@@ -86,13 +86,13 @@
       "highWall": 1,
       "coins": 50
     },
-    "hazards": {
-      "jumppad": 0.0,
-      "speedBooster": 5,
-      "banana": 3,
+  "hazards": {
+      "jumppad": 0.2,
+      "speedBooster": 4,
+      "banana": 5,
       "bubblegum": 0.0,
       "lava": 0.0,
-      "bonuses": 1.0
+      "bonuses": 0.3
     },
     "items": {
       "hearts": 0,
