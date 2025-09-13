@@ -4,11 +4,11 @@
     "distribution": {
       "wall": 0,
       "highWall": 0,
-      "coins": 72.0
+      "coins": 50
     },
     "hazards": {
       "jumppad": 0.0,
-      "speedBooster": 0,
+      "speedBooster": 10,
       "banana": 0.0,
       "bubblegum": 0.0,
       "lava": 0.0,
