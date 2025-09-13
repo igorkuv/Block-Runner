@@ -2,8 +2,8 @@
   {
     "level": 1,
     "distribution": {
-      "wall": 4.2,
-      "highWall": 1.8,
+      "wall": 0,
+      "highWall": 0,
       "coins": 72.0
     },
     "hazards": {
