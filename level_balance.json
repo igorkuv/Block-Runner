@@ -4,7 +4,7 @@
     "distribution": {
       "wall": 0,
       "highWall": 0,
-      "coins": 50
+      "coins": 30
     },
     "hazards": {
       "jumppad": 0.0,
@@ -12,7 +12,7 @@
       "banana": 2,
       "bubblegum": 0.0,
       "lava": 0.0,
-      "bonuses": 0.3
+      "bonuses": 0.1
     },
     "items": {
       "hearts": 0,
@@ -24,7 +24,7 @@
     "distribution": {
       "wall": 2,
       "highWall": 0,
-      "coins": 50
+      "coins": 30
     },
     "hazards": {
       "jumppad": 0.0,
@@ -32,7 +32,7 @@
       "banana": 2,
       "bubblegum": 0.0,
       "lava": 0.0,
-      "bonuses": 0.3
+      "bonuses": 0.1
     },
     "items": {
       "hearts": 0,
@@ -44,7 +44,7 @@
     "distribution": {
       "wall": 2,
       "highWall": 0.5,
-      "coins": 50
+      "coins": 30
     },
    "hazards": {
       "jumppad": 0.0,
@@ -52,7 +52,7 @@
       "banana": 2,
       "bubblegum": 0.0,
       "lava": 0.0,
-      "bonuses": 0.3
+      "bonuses": 0.1
     },
     "items": {
       "hearts": 0,
@@ -64,7 +64,7 @@
    "distribution": {
       "wall": 2,
       "highWall": 0.5,
-      "coins": 50
+      "coins": 30
     },
    "hazards": {
       "jumppad": 0.2,
@@ -72,7 +72,7 @@
       "banana": 2,
       "bubblegum": 0.0,
       "lava": 0.0,
-      "bonuses": 0.3
+      "bonuses": 0.1
     },
     "items": {
       "hearts": 0,
@@ -84,7 +84,7 @@
     "distribution": {
       "wall": 2,
       "highWall": 1,
-      "coins": 50
+      "coins": 30
     },
   "hazards": {
       "jumppad": 0.2,
@@ -92,7 +92,7 @@
       "banana": 5,
       "bubblegum": 0.0,
       "lava": 0.0,
-      "bonuses": 0.3
+      "bonuses": 0.1
     },
     "items": {
       "hearts": 0,
