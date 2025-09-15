@@ -46,9 +46,9 @@
       "highWall": 0.5,
       "coins": 30
     },
-   "hazards": {
+    "hazards": {
       "jumppad": 0.2,
-      "speedBooster":5,
+      "speedBooster": 5,
       "banana": 2,
       "bubblegum": 0.0,
       "lava": 0.0,
@@ -61,12 +61,12 @@
   },
   {
     "level": 4,
-   "distribution": {
+    "distribution": {
       "wall": 2,
       "highWall": 0.5,
       "coins": 30
     },
-   "hazards": {
+    "hazards": {
       "jumppad": 0.2,
       "speedBooster": 5,
       "banana": 2,
@@ -86,13 +86,13 @@
       "highWall": 1,
       "coins": 30
     },
-  "hazards": {
+    "hazards": {
       "jumppad": 0.2,
       "speedBooster": 5,
       "banana": 5,
       "bubblegum": 0.0,
       "lava": 0.0,
-      "bonuses": 0.2
+      "bonuses": 0.3
     },
     "items": {
       "hearts": 1,
@@ -108,11 +108,11 @@
     },
     "hazards": {
       "jumppad": 0.5,
-      "speedBooster": 2,
+      "speedBooster": 4,
       "banana": 1,
       "bubblegum": 0.0,
       "lava": 0.0,
-      "bonuses": 1.0
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -128,11 +128,11 @@
     },
     "hazards": {
       "jumppad": 0.05,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.03,
       "bubblegum": 0.03,
       "lava": 0.06,
-      "bonuses": 1.12
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -148,11 +148,11 @@
     },
     "hazards": {
       "jumppad": 0.11,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.06,
       "bubblegum": 0.06,
       "lava": 0.13,
-      "bonuses": 1.14
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -168,11 +168,11 @@
     },
     "hazards": {
       "jumppad": 0.16,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.1,
       "bubblegum": 0.1,
       "lava": 0.19,
-      "bonuses": 1.16
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -188,11 +188,11 @@
     },
     "hazards": {
       "jumppad": 0.21,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.13,
       "bubblegum": 0.13,
       "lava": 0.26,
-      "bonuses": 1.18
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -208,11 +208,11 @@
     },
     "hazards": {
       "jumppad": 0.27,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.16,
       "bubblegum": 0.16,
       "lava": 0.32,
-      "bonuses": 1.2
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -228,11 +228,11 @@
     },
     "hazards": {
       "jumppad": 0.32,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.19,
       "bubblegum": 0.19,
       "lava": 0.38,
-      "bonuses": 1.22
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -248,11 +248,11 @@
     },
     "hazards": {
       "jumppad": 0.37,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.22,
       "bubblegum": 0.22,
       "lava": 0.45,
-      "bonuses": 1.24
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -268,11 +268,11 @@
     },
     "hazards": {
       "jumppad": 0.43,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.26,
       "bubblegum": 0.26,
       "lava": 0.51,
-      "bonuses": 1.26
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -288,11 +288,11 @@
     },
     "hazards": {
       "jumppad": 0.48,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.29,
       "bubblegum": 0.29,
       "lava": 0.57,
-      "bonuses": 1.28
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -308,11 +308,11 @@
     },
     "hazards": {
       "jumppad": 0.53,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.32,
       "bubblegum": 0.32,
       "lava": 0.64,
-      "bonuses": 1.3
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -328,11 +328,11 @@
     },
     "hazards": {
       "jumppad": 0.59,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.35,
       "bubblegum": 0.35,
       "lava": 0.7,
-      "bonuses": 1.32
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -348,11 +348,11 @@
     },
     "hazards": {
       "jumppad": 0.64,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.38,
       "bubblegum": 0.38,
       "lava": 0.77,
-      "bonuses": 1.34
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -368,11 +368,11 @@
     },
     "hazards": {
       "jumppad": 0.69,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.41,
       "bubblegum": 0.41,
       "lava": 0.83,
-      "bonuses": 1.36
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -388,11 +388,11 @@
     },
     "hazards": {
       "jumppad": 0.74,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.45,
       "bubblegum": 0.45,
       "lava": 0.89,
-      "bonuses": 1.38
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -408,11 +408,11 @@
     },
     "hazards": {
       "jumppad": 0.8,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.48,
       "bubblegum": 0.48,
       "lava": 0.96,
-      "bonuses": 1.4
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -428,11 +428,11 @@
     },
     "hazards": {
       "jumppad": 0.85,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.51,
       "bubblegum": 0.51,
       "lava": 1.02,
-      "bonuses": 1.42
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -448,11 +448,11 @@
     },
     "hazards": {
       "jumppad": 0.9,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.54,
       "bubblegum": 0.54,
       "lava": 1.09,
-      "bonuses": 1.44
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -468,11 +468,11 @@
     },
     "hazards": {
       "jumppad": 0.96,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.57,
       "bubblegum": 0.57,
       "lava": 1.15,
-      "bonuses": 1.46
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -488,11 +488,11 @@
     },
     "hazards": {
       "jumppad": 1.01,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.61,
       "bubblegum": 0.61,
       "lava": 1.21,
-      "bonuses": 1.48
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -508,11 +508,11 @@
     },
     "hazards": {
       "jumppad": 1.06,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.64,
       "bubblegum": 0.64,
       "lava": 1.28,
-      "bonuses": 1.51
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -528,11 +528,11 @@
     },
     "hazards": {
       "jumppad": 1.12,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.67,
       "bubblegum": 0.67,
       "lava": 1.34,
-      "bonuses": 1.53
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -548,11 +548,11 @@
     },
     "hazards": {
       "jumppad": 1.17,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.7,
       "bubblegum": 0.7,
       "lava": 1.4,
-      "bonuses": 1.55
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -568,11 +568,11 @@
     },
     "hazards": {
       "jumppad": 1.22,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.73,
       "bubblegum": 0.73,
       "lava": 1.47,
-      "bonuses": 1.57
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -588,11 +588,11 @@
     },
     "hazards": {
       "jumppad": 1.28,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.77,
       "bubblegum": 0.77,
       "lava": 1.53,
-      "bonuses": 1.59
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -608,11 +608,11 @@
     },
     "hazards": {
       "jumppad": 1.33,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.8,
       "bubblegum": 0.8,
       "lava": 1.6,
-      "bonuses": 1.61
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -628,11 +628,11 @@
     },
     "hazards": {
       "jumppad": 1.38,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.83,
       "bubblegum": 0.83,
       "lava": 1.66,
-      "bonuses": 1.63
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -648,11 +648,11 @@
     },
     "hazards": {
       "jumppad": 1.44,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.86,
       "bubblegum": 0.86,
       "lava": 1.72,
-      "bonuses": 1.65
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -668,11 +668,11 @@
     },
     "hazards": {
       "jumppad": 1.49,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.89,
       "bubblegum": 0.89,
       "lava": 1.79,
-      "bonuses": 1.67
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -688,11 +688,11 @@
     },
     "hazards": {
       "jumppad": 1.54,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.93,
       "bubblegum": 0.93,
       "lava": 1.85,
-      "bonuses": 1.69
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -708,11 +708,11 @@
     },
     "hazards": {
       "jumppad": 1.6,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.96,
       "bubblegum": 0.96,
       "lava": 1.91,
-      "bonuses": 1.71
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -728,11 +728,11 @@
     },
     "hazards": {
       "jumppad": 1.65,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 0.99,
       "bubblegum": 0.99,
       "lava": 1.98,
-      "bonuses": 1.73
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -748,11 +748,11 @@
     },
     "hazards": {
       "jumppad": 1.7,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.02,
       "bubblegum": 1.02,
       "lava": 2.04,
-      "bonuses": 1.75
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -768,11 +768,11 @@
     },
     "hazards": {
       "jumppad": 1.76,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.05,
       "bubblegum": 1.05,
       "lava": 2.11,
-      "bonuses": 1.77
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -788,11 +788,11 @@
     },
     "hazards": {
       "jumppad": 1.81,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.09,
       "bubblegum": 1.09,
       "lava": 2.17,
-      "bonuses": 1.79
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -808,11 +808,11 @@
     },
     "hazards": {
       "jumppad": 1.86,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.12,
       "bubblegum": 1.12,
       "lava": 2.23,
-      "bonuses": 1.81
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -828,11 +828,11 @@
     },
     "hazards": {
       "jumppad": 1.91,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.15,
       "bubblegum": 1.15,
       "lava": 2.3,
-      "bonuses": 1.83
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -848,11 +848,11 @@
     },
     "hazards": {
       "jumppad": 1.97,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.18,
       "bubblegum": 1.18,
       "lava": 2.36,
-      "bonuses": 1.85
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -868,11 +868,11 @@
     },
     "hazards": {
       "jumppad": 2.02,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.21,
       "bubblegum": 1.21,
       "lava": 2.43,
-      "bonuses": 1.87
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -888,11 +888,11 @@
     },
     "hazards": {
       "jumppad": 2.07,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.24,
       "bubblegum": 1.24,
       "lava": 2.49,
-      "bonuses": 1.89
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -908,11 +908,11 @@
     },
     "hazards": {
       "jumppad": 2.13,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.28,
       "bubblegum": 1.28,
       "lava": 2.55,
-      "bonuses": 1.91
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -928,11 +928,11 @@
     },
     "hazards": {
       "jumppad": 2.18,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.31,
       "bubblegum": 1.31,
       "lava": 2.62,
-      "bonuses": 1.93
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -948,11 +948,11 @@
     },
     "hazards": {
       "jumppad": 2.23,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.34,
       "bubblegum": 1.34,
       "lava": 2.68,
-      "bonuses": 1.95
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -968,11 +968,11 @@
     },
     "hazards": {
       "jumppad": 2.29,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.37,
       "bubblegum": 1.37,
       "lava": 2.74,
-      "bonuses": 1.97
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -988,11 +988,11 @@
     },
     "hazards": {
       "jumppad": 2.34,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.4,
       "bubblegum": 1.4,
       "lava": 2.81,
-      "bonuses": 1.99
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1008,11 +1008,11 @@
     },
     "hazards": {
       "jumppad": 2.39,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.44,
       "bubblegum": 1.44,
       "lava": 2.87,
-      "bonuses": 2.01
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1028,11 +1028,11 @@
     },
     "hazards": {
       "jumppad": 2.45,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.47,
       "bubblegum": 1.47,
       "lava": 2.94,
-      "bonuses": 2.03
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1048,11 +1048,11 @@
     },
     "hazards": {
       "jumppad": 2.5,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.5,
       "bubblegum": 1.5,
       "lava": 3.0,
-      "bonuses": 2.05
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1068,11 +1068,11 @@
     },
     "hazards": {
       "jumppad": 2.55,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.53,
       "bubblegum": 1.53,
       "lava": 3.06,
-      "bonuses": 2.07
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1088,11 +1088,11 @@
     },
     "hazards": {
       "jumppad": 2.61,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.56,
       "bubblegum": 1.56,
       "lava": 3.13,
-      "bonuses": 2.09
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1108,11 +1108,11 @@
     },
     "hazards": {
       "jumppad": 2.66,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.6,
       "bubblegum": 1.6,
       "lava": 3.19,
-      "bonuses": 2.11
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1128,11 +1128,11 @@
     },
     "hazards": {
       "jumppad": 2.71,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.63,
       "bubblegum": 1.63,
       "lava": 3.26,
-      "bonuses": 2.13
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1148,11 +1148,11 @@
     },
     "hazards": {
       "jumppad": 2.77,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.66,
       "bubblegum": 1.66,
       "lava": 3.32,
-      "bonuses": 2.15
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1168,11 +1168,11 @@
     },
     "hazards": {
       "jumppad": 2.82,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.69,
       "bubblegum": 1.69,
       "lava": 3.38,
-      "bonuses": 2.17
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1188,11 +1188,11 @@
     },
     "hazards": {
       "jumppad": 2.87,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.72,
       "bubblegum": 1.72,
       "lava": 3.45,
-      "bonuses": 2.19
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1208,11 +1208,11 @@
     },
     "hazards": {
       "jumppad": 2.93,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.76,
       "bubblegum": 1.76,
       "lava": 3.51,
-      "bonuses": 2.21
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1228,11 +1228,11 @@
     },
     "hazards": {
       "jumppad": 2.98,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.79,
       "bubblegum": 1.79,
       "lava": 3.57,
-      "bonuses": 2.23
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1248,11 +1248,11 @@
     },
     "hazards": {
       "jumppad": 3.03,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.82,
       "bubblegum": 1.82,
       "lava": 3.64,
-      "bonuses": 2.25
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1268,11 +1268,11 @@
     },
     "hazards": {
       "jumppad": 3.09,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.85,
       "bubblegum": 1.85,
       "lava": 3.7,
-      "bonuses": 2.27
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1288,11 +1288,11 @@
     },
     "hazards": {
       "jumppad": 3.14,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.88,
       "bubblegum": 1.88,
       "lava": 3.77,
-      "bonuses": 2.29
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1308,11 +1308,11 @@
     },
     "hazards": {
       "jumppad": 3.19,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.91,
       "bubblegum": 1.91,
       "lava": 3.83,
-      "bonuses": 2.31
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1328,11 +1328,11 @@
     },
     "hazards": {
       "jumppad": 3.24,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.95,
       "bubblegum": 1.95,
       "lava": 3.89,
-      "bonuses": 2.33
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1348,11 +1348,11 @@
     },
     "hazards": {
       "jumppad": 3.3,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 1.98,
       "bubblegum": 1.98,
       "lava": 3.96,
-      "bonuses": 2.35
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1368,11 +1368,11 @@
     },
     "hazards": {
       "jumppad": 3.35,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.01,
       "bubblegum": 2.01,
       "lava": 4.02,
-      "bonuses": 2.37
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1388,11 +1388,11 @@
     },
     "hazards": {
       "jumppad": 3.4,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.04,
       "bubblegum": 2.04,
       "lava": 4.09,
-      "bonuses": 2.39
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1408,11 +1408,11 @@
     },
     "hazards": {
       "jumppad": 3.46,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.07,
       "bubblegum": 2.07,
       "lava": 4.15,
-      "bonuses": 2.41
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1428,11 +1428,11 @@
     },
     "hazards": {
       "jumppad": 3.51,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.11,
       "bubblegum": 2.11,
       "lava": 4.21,
-      "bonuses": 2.43
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1448,11 +1448,11 @@
     },
     "hazards": {
       "jumppad": 3.56,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.14,
       "bubblegum": 2.14,
       "lava": 4.28,
-      "bonuses": 2.45
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1468,11 +1468,11 @@
     },
     "hazards": {
       "jumppad": 3.62,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.17,
       "bubblegum": 2.17,
       "lava": 4.34,
-      "bonuses": 2.47
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1488,11 +1488,11 @@
     },
     "hazards": {
       "jumppad": 3.67,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.2,
       "bubblegum": 2.2,
       "lava": 4.4,
-      "bonuses": 2.49
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1508,11 +1508,11 @@
     },
     "hazards": {
       "jumppad": 3.72,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.23,
       "bubblegum": 2.23,
       "lava": 4.47,
-      "bonuses": 2.52
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1528,11 +1528,11 @@
     },
     "hazards": {
       "jumppad": 3.78,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.27,
       "bubblegum": 2.27,
       "lava": 4.53,
-      "bonuses": 2.54
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1548,11 +1548,11 @@
     },
     "hazards": {
       "jumppad": 3.83,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.3,
       "bubblegum": 2.3,
       "lava": 4.6,
-      "bonuses": 2.56
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1568,11 +1568,11 @@
     },
     "hazards": {
       "jumppad": 3.88,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.33,
       "bubblegum": 2.33,
       "lava": 4.66,
-      "bonuses": 2.58
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1588,11 +1588,11 @@
     },
     "hazards": {
       "jumppad": 3.94,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.36,
       "bubblegum": 2.36,
       "lava": 4.72,
-      "bonuses": 2.6
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1608,11 +1608,11 @@
     },
     "hazards": {
       "jumppad": 3.99,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.39,
       "bubblegum": 2.39,
       "lava": 4.79,
-      "bonuses": 2.62
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1628,11 +1628,11 @@
     },
     "hazards": {
       "jumppad": 4.04,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.43,
       "bubblegum": 2.43,
       "lava": 4.85,
-      "bonuses": 2.64
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1648,11 +1648,11 @@
     },
     "hazards": {
       "jumppad": 4.1,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.46,
       "bubblegum": 2.46,
       "lava": 4.91,
-      "bonuses": 2.66
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1668,11 +1668,11 @@
     },
     "hazards": {
       "jumppad": 4.15,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.49,
       "bubblegum": 2.49,
       "lava": 4.98,
-      "bonuses": 2.68
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1688,11 +1688,11 @@
     },
     "hazards": {
       "jumppad": 4.2,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.52,
       "bubblegum": 2.52,
       "lava": 5.04,
-      "bonuses": 2.7
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1708,11 +1708,11 @@
     },
     "hazards": {
       "jumppad": 4.26,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.55,
       "bubblegum": 2.55,
       "lava": 5.11,
-      "bonuses": 2.72
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1728,11 +1728,11 @@
     },
     "hazards": {
       "jumppad": 4.31,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.59,
       "bubblegum": 2.59,
       "lava": 5.17,
-      "bonuses": 2.74
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1748,11 +1748,11 @@
     },
     "hazards": {
       "jumppad": 4.36,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.62,
       "bubblegum": 2.62,
       "lava": 5.23,
-      "bonuses": 2.76
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1768,11 +1768,11 @@
     },
     "hazards": {
       "jumppad": 4.41,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.65,
       "bubblegum": 2.65,
       "lava": 5.3,
-      "bonuses": 2.78
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1788,11 +1788,11 @@
     },
     "hazards": {
       "jumppad": 4.47,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.68,
       "bubblegum": 2.68,
       "lava": 5.36,
-      "bonuses": 2.8
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1808,11 +1808,11 @@
     },
     "hazards": {
       "jumppad": 4.52,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.71,
       "bubblegum": 2.71,
       "lava": 5.43,
-      "bonuses": 2.82
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1828,11 +1828,11 @@
     },
     "hazards": {
       "jumppad": 4.57,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.74,
       "bubblegum": 2.74,
       "lava": 5.49,
-      "bonuses": 2.84
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1848,11 +1848,11 @@
     },
     "hazards": {
       "jumppad": 4.63,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.78,
       "bubblegum": 2.78,
       "lava": 5.55,
-      "bonuses": 2.86
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1868,11 +1868,11 @@
     },
     "hazards": {
       "jumppad": 4.68,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.81,
       "bubblegum": 2.81,
       "lava": 5.62,
-      "bonuses": 2.88
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1888,11 +1888,11 @@
     },
     "hazards": {
       "jumppad": 4.73,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.84,
       "bubblegum": 2.84,
       "lava": 5.68,
-      "bonuses": 2.9
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1908,11 +1908,11 @@
     },
     "hazards": {
       "jumppad": 4.79,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.87,
       "bubblegum": 2.87,
       "lava": 5.74,
-      "bonuses": 2.92
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1928,11 +1928,11 @@
     },
     "hazards": {
       "jumppad": 4.84,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.9,
       "bubblegum": 2.9,
       "lava": 5.81,
-      "bonuses": 2.94
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1948,11 +1948,11 @@
     },
     "hazards": {
       "jumppad": 4.89,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.94,
       "bubblegum": 2.94,
       "lava": 5.87,
-      "bonuses": 2.96
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1968,11 +1968,11 @@
     },
     "hazards": {
       "jumppad": 4.95,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 2.97,
       "bubblegum": 2.97,
       "lava": 5.94,
-      "bonuses": 2.98
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
@@ -1988,11 +1988,11 @@
     },
     "hazards": {
       "jumppad": 5.0,
-      "speedBooster": 0,
+      "speedBooster": 5,
       "banana": 3.0,
       "bubblegum": 3.0,
       "lava": 6.0,
-      "bonuses": 3.0
+      "bonuses": 0.6
     },
     "items": {
       "hearts": 1,
